@@ -3,3 +3,5 @@ Primeira versão do meu teste com Git
 Agora estou aprendendo git add, git commit e git log.
 
 Git diff mostra as mudanças antes do commit.
+
+Essa linha foi criada dentro de uma branch de teste.
