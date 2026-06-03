@@ -1,4 +1,4 @@
-# Prática de Git e Github
+# Prática de Git e GitHub
 
 ## Descrição 
 Este repositório foi criado para praticar os fundamentos de Git local antes de publicar projetos no GitHub.
