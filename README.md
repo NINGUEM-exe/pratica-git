@@ -1,10 +1,10 @@
 # Prática de Git e Github
 
 ## Descrição 
-Este repositório foi criado para praticar osfundamentos de Git local antes de publicar projetos no GitHub.
+Este repositório foi criado para praticar os fundamentos de Git local antes de publicar projetos no GitHub.
 
 ## Objetivo
-Aprender o fluxo básico de versionamento com Git, incluindo criação de commits, revisão de alterações, branches merge e resolução de conflitos.
+Aprender o fluxo básico de versionamento com Git, incluindo criação de commits, revisão de alterações, branches, merge e resolução de conflitos.
 
 ## Conteúdos praticados
 
