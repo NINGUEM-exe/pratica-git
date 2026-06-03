@@ -32,4 +32,4 @@ Este repositório funciona como um laboratório para entender Git de forma prát
 - Aplicar Git em um projeto Python real
 
 ## Status
-Repositório publicado no GitHubcomo parte da prática de versionamento.
+Repositório publicado no GitHub como parte da prática de versionamento.
