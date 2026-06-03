@@ -1,4 +1,4 @@
-Primeira versão do meu teste com Git
+Primeira versão alternada dentro da branch teste-conflito
 
 Agora estou aprendendo git add, git commit e git log.
 
