@@ -30,3 +30,6 @@ Este repositório funciona como um laboratório para entender Git de forma prát
 - Fazer o primeiro push
 - Praticar clone
 - Aplicar Git em um projeto Python real
+
+## Status
+Repositório publicado no GitHubcomo parte da prática de versionamento.
