@@ -1,4 +1,4 @@
-Primeira versão do meu teste com Git
+Primeira versão alterada diretamente na main.
 
 Agora estou aprendendo git add, git commit e git log.
 
