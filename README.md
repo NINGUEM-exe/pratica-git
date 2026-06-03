@@ -33,3 +33,6 @@ Este repositório funciona como um laboratório para entender Git de forma prát
 
 ## Status
 Repositório publicado no GitHub como parte da prática de versionamento.
+
+## Teste de clone
+Esta linha foi adicionada em uma cópia clonada do repositório
