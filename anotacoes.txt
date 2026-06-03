@@ -1,4 +1,4 @@
-Primeira versão alterada diretamente na main.
+Primeira versão ajustada após resolver conflito entre main e teste conflito
 
 Agora estou aprendendo git add, git commit e git log.
 
